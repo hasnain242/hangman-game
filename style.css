@@ -1,0 +1,15 @@
+body{
+    background-color: darkslategray;
+    color: white;
+}
+.figure-con{
+    fill: transparent;
+    stroke: white;
+    stroke-width: 5px;
+    stroke-linecap: round;
+}
+.figure-part{
+    display:none ;
+    
+
+}
